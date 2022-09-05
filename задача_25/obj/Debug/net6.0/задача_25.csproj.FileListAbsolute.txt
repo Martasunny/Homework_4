@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\задача_25.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\задача_25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\задача_25.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\задача_25.AssemblyInfo.cs
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\задача_25.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\bin\Debug\net6.0\задача_25.exe
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\bin\Debug\net6.0\задача_25.deps.json
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\bin\Debug\net6.0\задача_25.runtimeconfig.json
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\bin\Debug\net6.0\задача_25.dll
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\bin\Debug\net6.0\задача_25.pdb
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\задача_25.dll
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\refint\задача_25.dll
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\задача_25.pdb
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\задача_25.genruntimeconfig.cache
+D:\Users\User\Desktop\домашняя работа к семинару 4\задача_25\obj\Debug\net6.0\ref\задача_25.dll
